@@ -1,8 +1,4 @@
-# Flipkart.com Clone
 
-AS part of unit 4 construct week we cloned the frontend and backend of flipkart.com. This is the clone of the website named Flipkart which is biggest E-Commerce website which speciaize in selling cloths and styling product. The best of our ability in a team of 4 within the span of 5 days.
-
-[Deploy link](https://flipkart01-clone.netlify.app/)
 
 
 ## collaborators:
