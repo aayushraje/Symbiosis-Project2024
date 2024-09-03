@@ -7,11 +7,10 @@ AS part of unit 4 construct week we cloned the frontend and backend of flipkart.
 
 ## collaborators:
 
-- [Hemant Suryawashi]()
-- [Salman Khan]()
-- [Karishma Nikam]()
-- [Ritu Chauhan]()
-- [Rushikesh Pardhikar]()
+- [Aayush rajeshirke]()
+- [Raj sawadekar]()
+- [Sauraj gurav]()
+  
 
 
 ## Tech Stack:
